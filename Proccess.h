@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////
+//////Proccess.h
+#pragma once
+namespace nsPr 
+{
+	
+	void ProccessTXT1();
+}
